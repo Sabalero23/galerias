@@ -40,6 +40,6 @@ Si deseas contribuir al desarrollo de este proyecto, por favor sigue las pautas 
 ¡Disfruta explorando y administrando tus galerías de fotos con nuestro Sistema PHP de Galerías sin necesidad de base de datos MySQL!
 
 para Administrar ingresar /admin (ejemplo:  www.galeria.xxx/admin) 
-por defecto
+por defecto, al ingresar por primera vez al proyecto, se crea un archivo usuarios_data.php donde se crean la credencial por defecto.
 usuario: admin
 Clave: password
