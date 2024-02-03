@@ -38,3 +38,8 @@ Colaboración
 Si deseas contribuir al desarrollo de este proyecto, por favor sigue las pautas de contribución detalladas en el archivo CONTRIBUTING.md.
 
 ¡Disfruta explorando y administrando tus galerías de fotos con nuestro Sistema PHP de Galerías sin necesidad de base de datos MySQL!
+
+para Administrar ingresar /admin (ejemplo:  www.galeria.xxx/admin) 
+por defecto
+usuario: admin
+Clave: password
